@@ -6,5 +6,5 @@ The dashboard highlights key KPIs (Total Sales, Quantity, Transactions, Average 
 The repository includes the .pbix file and a screenshot of the dashboard. Open the file in Power BI Desktop to explore and interact with the report.
 
 
-![Dashboard Preview].(https://github.com/kishortalode/Mobile-Sales-Dashboard-Project/blob/main/Mobile_Sales_Dashboard_SC.png).
+![Dashboard Preview](https://github.com/kishortalode/Mobile-Sales-Dashboard-Project/blob/main/Mobile_Sales_Dashboard_SC.png)
 
